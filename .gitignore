@@ -1,0 +1,17 @@
+# Rust
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# IDEs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# logs
+*.log
+
+# runtime files
+*.pid
